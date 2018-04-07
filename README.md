@@ -9,6 +9,6 @@ Shell scripts for recoving passwords used to decrypt files encrypted with multib
 
 ## How to use:
 
-> $sh decrypt.sh <file-to-decrypt> <output-file> <word-list>
+> $sh decrypt.sh "file-to-decrypt" "output-file" "word-list"
 
-An example can be found in /test 
+An example can be found in /test
